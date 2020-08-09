@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It is hosted live using Firebase Hosting. View live demo here - https://netflix-clone-by-tahmid.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
