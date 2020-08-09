@@ -1,6 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Netflix-FrontEnd-Clone
 
 It is hosted live using Firebase Hosting. View live demo here - https://netflix-clone-by-tahmid.web.app/
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
