@@ -1,8 +1,9 @@
 # Netflix-FrontEnd-Clone
 
-A Netflix Clone project created using the TMDB developer API and hosted using Firebase hosting.
+A simple Netflix Clone project created using the TMDB developer API and hosted using Firebase hosting. It has a minimal interface with little functionality like when the movie posters are clicked the trailer of the movie is played from youtube. Mentoring credit goes to clever programmer. 
 
 View live demo here - https://netflix-clone-by-tahmid.web.app/
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
